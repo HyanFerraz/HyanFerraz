@@ -1,16 +1,67 @@
-## Hi there 👋
+# Welcome to my workshop, traveler 👋
 
-<!--
-**HyanFerraz/HyanFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Hyan.
 
-Here are some ideas to get you started:
+> "A future is not given to you.  
+> It is something you must take for yourself."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I like building things just to see what happens.
+
+Sometimes it's a web tool.  
+Sometimes an automation script.  
+Sometimes an idea that probably shouldn't exist.  
+And most of the time, they break in interesting ways.
+
+Most of the code here started with a question like:  
+"What happens if I try this?"
+
+---
+
+## How I like to build things
+
+I enjoy writing things from scratch just to understand  
+how they work under the hood.
+
+But I'm not against using libraries when they make sense.
+
+Curiosity first.  
+Practicality second.
+
+---
+
+## Tech I use the most
+
+React  
+TypeScript  
+
+Currently exploring:
+
+Rust
+
+---
+
+## Environment
+
+WSL  
+VSCode  
+Docker
+
+---
+
+## Things I enjoy outside coding
+
+Games  
+Music  
+Languages  
+Robotics  
+Worldbuilding  
+
+---
+
+This space is mostly a collection of experiments.
+
+Some will work.  
+Some will break.  
+Some might evolve into something bigger.
