@@ -7,15 +7,11 @@
 
 ---
 
-I like building things just to see what happens.
+This space is mostly a collection of experiments.
 
-Sometimes it's a web tool.  
-Sometimes an automation script.  
-Sometimes an idea that probably shouldn't exist.  
-And most of the time, they break in interesting ways.
-
-Most of the code here started with a question like:  
-"What happens if I try this?"
+Some will work.  
+Some will break.  
+Some might evolve into something bigger.
 
 ---
 
@@ -42,14 +38,6 @@ Rust
 
 ---
 
-## Environment
-
-WSL  
-VSCode  
-Docker
-
----
-
 ## Things I enjoy outside coding
 
 Games  
@@ -59,9 +47,3 @@ Robotics
 Worldbuilding  
 
 ---
-
-This space is mostly a collection of experiments.
-
-Some will work.  
-Some will break.  
-Some might evolve into something bigger.
