@@ -7,11 +7,12 @@
 
 ---
 
-This space is mostly a collection of experiments.
+I like building things just to see what happens.
 
-Some will work.  
-Some will break.  
-Some might evolve into something bigger.
+Sometimes it's a web tool.  
+Sometimes an automation script.  
+Sometimes an idea that probably shouldn't exist.  
+And most of the time, they break in interesting ways.
 
 ---
 
